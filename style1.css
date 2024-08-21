@@ -28,4 +28,12 @@ body{
     border-radius:1rem;
     border:none;
 }
+.resetbtn{
+    padding:1rem;
+    color:red;
+    background-color: antiquewhite;
+    font-size:1.25rem;
+    border-radius:1rem;
+    border:none;
+}
 
