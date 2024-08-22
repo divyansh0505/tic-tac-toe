@@ -27,6 +27,8 @@ body{
     width:18vmin;
     border-radius:1rem;
     border:none;
+    font-size:50px;
+    color:red;
 }
 .resetbtn{
     padding:1rem;
