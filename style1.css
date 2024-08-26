@@ -31,15 +31,15 @@ body{
     color:red;
 }
 .resetbtn{
-    padding:1rem;
+    padding:0.5rem;
     color:red;
     background-color: antiquewhite;
-    font-size:1.25rem;
+    font-size:1rem;
     border-radius:1rem;
     border:none;
 }
 .msgcontainer{
-    padding:1rem;
+    padding:1.1rem;
     color:green;
     font-size:2rem;
     height:20vmin;
@@ -54,6 +54,9 @@ body{
 }
 .hide{
     display:none;
+}
+.win-sequence {
+    color:green; 
 }
 
 
