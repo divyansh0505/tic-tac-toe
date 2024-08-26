@@ -1,5 +1,6 @@
 let boxes=document.querySelectorAll(".box");
 let reset=document.querySelector(".resetbtn");
+let newbtn=document.querySelector("")
 const winPatterns = [
     [0, 1, 2],
     [3, 4, 5],
