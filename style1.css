@@ -38,4 +38,22 @@ body{
     border-radius:1rem;
     border:none;
 }
+.msgcontainer{
+    padding:1rem;
+    color:green;
+    font-size:2rem;
+    height:20vmin;
+}
+#newgame{
+    padding:0.5rem;
+    color:green;
+    background-color: antiquewhite;
+    font-size:1rem;
+    border-radius:1rem;
+    border:none;
+}
+.hide{
+    display:none;
+}
+
 
